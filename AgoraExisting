@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-08-11T12:00:03.380Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="m4qv5MfgZIkk6SusUZg1" version="14.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-12T16:14:41.421Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="-W896SjBCE2eykbaTvk-" version="14.9.6" type="github">
   <diagram id="RwjdhVzvW5Hf3Io0OFK4" name="Page-1">
-    <mxGraphModel dx="2098" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2654" dy="1600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -398,8 +398,8 @@
         <mxCell id="Ny0_ieJSHAWX3doEKn-O-143" value="&lt;font&gt;&lt;b&gt;Additional Tasks:&lt;/b&gt;&lt;br&gt;&lt;ol&gt;&lt;li&gt;Ask Backend for &lt;b&gt;VendorType&lt;/b&gt;&lt;/li&gt;&lt;li&gt;Integrate &lt;b&gt;RTCManagerService&lt;/b&gt; with &lt;b&gt;VendorType &lt;/b&gt;&amp;nbsp;using a builder&lt;/li&gt;&lt;li&gt;Call RTC Manager LC methods&lt;/li&gt;&lt;li&gt;Integrate RTC Manager Delegate Methods&lt;/li&gt;&lt;/ol&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="650" width="170" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Ny0_ieJSHAWX3doEKn-O-195" value="returns Obj wrt VendorType" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
-          <mxGeometry x="-0.6664" y="-21" relative="1" as="geometry">
+        <mxCell id="Ny0_ieJSHAWX3doEKn-O-195" value="returns Obj wrt VendorType&lt;br&gt;&amp;amp;&lt;br&gt;&lt;b&gt;List of Feature Availability&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.258;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry x="-0.3333" relative="1" as="geometry">
             <mxPoint x="-0.9248275862069022" y="960" as="sourcePoint" />
             <mxPoint x="-1" y="840" as="targetPoint" />
             <Array as="points">
