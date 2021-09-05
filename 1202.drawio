@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-22T19:49:04.258Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.3 Safari/605.1.15" etag="tojNJlEfsBXJ1LsTcD6n" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-05T18:36:11.528Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="zTKPxS_wJaxygIO2DdhU" version="15.0.6" type="github">
   <diagram id="ZkYAFQrB4FQ_Co6BY5Ft" name="Page-1">
-    <mxGraphModel dx="2654" dy="2427" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2095" dy="1779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -443,7 +443,7 @@
         <mxCell id="hL6NmupwTg1U5qydUNrK-11" value="" style="triangle;whiteSpace=wrap;html=1;aspect=fixed;" parent="hL6NmupwTg1U5qydUNrK-42" vertex="1">
           <mxGeometry x="-0.19362499999999994" y="337.18741935483877" width="152.2548924731183" height="202.993835389785" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="hL6NmupwTg1U5qydUNrK-42">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" parent="hL6NmupwTg1U5qydUNrK-42" vertex="1">
           <mxGeometry y="310" width="685.15" height="470" as="geometry" />
         </mxCell>
         <mxCell id="hL6NmupwTg1U5qydUNrK-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="hL6NmupwTg1U5qydUNrK-42" vertex="1">
@@ -500,59 +500,215 @@
         <mxCell id="iaUl5woXVu4vy6YyLLjF-68" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#333333;arcSize=50;rotation=105;" parent="1" vertex="1">
           <mxGeometry x="-414" y="2400" width="30" height="5" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4030" width="920" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4280" width="600" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" parent="1" vertex="1">
           <mxGeometry x="-30" y="4030" width="40" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" parent="1" vertex="1">
           <mxGeometry x="30" y="4030" width="40" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;" parent="1" vertex="1">
           <mxGeometry x="90" y="4030" width="40" height="770" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="-600" y="4360" width="510" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-9" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4780" width="920" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-350" y="4220" width="570" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="4330" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/spring-glyph-6/272/spring-plant-flower-leaves-garden-nature-pot-128.png;fillColor=#000000;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;image=https://cdn2.iconfinder.com/data/icons/spring-glyph-6/272/spring-plant-flower-leaves-garden-nature-pot-128.png;fillColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="150" y="4429" width="130" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4750" width="560" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;aspect=fixed;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;aspect=fixed;fillColor=#994C00;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-93" y="4742" width="30" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4950" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#994C00;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="-640" y="4780" width="30" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-22" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-22" value="" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontColor=#333333;fillColor=#f5f5f5;" parent="1" vertex="1">
           <mxGeometry x="-528" y="4780" width="808" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-528" y="4800" width="269" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="-259" y="4800" width="269" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="nDecERiu8yvyTZUjvtcF-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="nDecERiu8yvyTZUjvtcF-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="10" y="4800" width="269" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-1" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="5160" width="336" height="412" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;" vertex="1" parent="1">
+          <mxGeometry x="-549" y="5512" width="228" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-3" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D4D4D4;" vertex="1" parent="1">
+          <mxGeometry x="-599" y="5161" width="60" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-589" y="5170" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-5" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-589" y="5522" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="5522" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-11" value="" style="rounded=0;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="5600" width="336" height="412" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d4d4d4;" vertex="1" parent="1">
+          <mxGeometry x="-549" y="5650" width="219" height="362" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="5660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-14" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-384" y="5660" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-531" y="5960" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="-381" y="5960" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;" vertex="1" parent="1">
+          <mxGeometry x="-519.5" y="5741" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;" vertex="1" parent="1">
+          <mxGeometry x="-515" y="5310" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="5280" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-23" value="" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1098" y="5161" width="404" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-24" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="5162" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-25" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D4D4D4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1100" y="5162" width="60" height="448" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="5171" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1090" y="5540" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-990" y="5281" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1098" y="5281" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-40" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-597" y="5711" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-42" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="5171" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-43" value="" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1098" y="5680" width="404" height="452" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-44" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1050" y="5681" width="300" height="389" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-46" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="5690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-47" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="6020" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-48" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-980" y="5760" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1098" y="5800" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-810" y="5690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-51" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="6020" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-52" value="" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="6240" width="468" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="6550" width="470" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-759" y="6563" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-950" y="6348" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1080" y="6333" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-59" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-1030" y="6563" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-61" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;flipV=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-800" y="6430" width="310" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-58" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-665" y="6333" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-62" value="" style="rounded=0;whiteSpace=wrap;html=1;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="6236" width="468" height="376" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-63" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-460" y="6320" width="350" height="292" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-64" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="6559" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-65" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-371.5" y="6386" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-66" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="6329" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-67" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6559" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-70" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="6339" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-71" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="6339" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-72" value="B3 &amp;nbsp;L Shape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-896" y="6260" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-73" value="B3 &amp;nbsp;Box" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="6250" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-74" value="B1 &amp;nbsp;Box" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-483" y="5610" width="96" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TyXcRTQO4CFg7aNSz6uG-75" value="B1 &amp;nbsp;L Shape" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-473" y="5170" width="96" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
