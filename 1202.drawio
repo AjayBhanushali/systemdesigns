@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T19:52:06.958Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="K_8V23nVRug381yvzU9h" version="15.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-16T19:53:02.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Safari/605.1.15" etag="vEnFpLX173VSU1a5TGEx" version="15.2.5" type="github">
   <diagram id="ZkYAFQrB4FQ_Co6BY5Ft" name="Page-1">
-    <mxGraphModel dx="3482" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3698" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,9 +124,6 @@
         </mxCell>
         <mxCell id="TyXcRTQO4CFg7aNSz6uG-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="-925.25" y="1110" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="TyXcRTQO4CFg7aNSz6uG-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/home-appliances-furnitures/100/ceiling_fan-128.png;fillColor=#d4d4d4;flipV=0;" parent="1" vertex="1">
-          <mxGeometry x="-825.25" y="851" width="160" height="160" as="geometry" />
         </mxCell>
         <mxCell id="TyXcRTQO4CFg7aNSz6uG-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="-933.25" y="851" width="40" height="190" as="geometry" />
